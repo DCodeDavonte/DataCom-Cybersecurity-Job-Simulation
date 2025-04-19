@@ -15,7 +15,7 @@ To prevent unauthorized physical access, the clinic has installed a fence around
 
 ---
 
-## 2. Risk Matrix
+## Risk Matrix
 
 | **Rating** | **Likelihood**            | **Consequence**             |
 |------------|----------------------------|-------------------------------|
@@ -38,7 +38,7 @@ To prevent unauthorized physical access, the clinic has installed a fence around
 
 ---
 
-## 3. Identified Risk Scenarios
+## Identified Risk Scenarios
 
 ### 🔹 Scenario 1: Phishing Attack on Clinic Staff
 A clinic employee receives a phishing email, clicks a malicious link, and unknowingly compromises system credentials. This could result in unauthorized access to PHI and internal systems.
@@ -63,7 +63,7 @@ A staff member accesses patient records beyond their role-based permissions due 
 
 ---
 
-## 4. Inherent Risk Ratings (No Controls in Place)
+## Inherent Risk Ratings (No Controls in Place)
 
 | Scenario                   | Likelihood | Consequence | Risk Rating | Risk Level  |
 |---------------------------|------------|-------------|-------------|-------------|
@@ -73,7 +73,7 @@ A staff member accesses patient records beyond their role-based permissions due 
 
 ---
 
-## 5. Current Risk Ratings (With Existing Controls)
+## Current Risk Ratings (With Existing Controls)
 
 | Scenario                   | Likelihood | Consequence | Risk Rating | Risk Level  |
 |---------------------------|------------|-------------|-------------|-------------|
@@ -83,7 +83,7 @@ A staff member accesses patient records beyond their role-based permissions due 
 
 ---
 
-## 6. Target Risk Ratings (With Additional Controls)
+## Target Risk Ratings (With Additional Controls)
 
 | Scenario                   | Additional Measures                                 | Likelihood | Consequence | Risk Rating | Risk Level |
 |---------------------------|-----------------------------------------------------|------------|-------------|-------------|------------|
@@ -93,7 +93,7 @@ A staff member accesses patient records beyond their role-based permissions due 
 
 ---
 
-## 7. Summary of Recommendations
+## Summary of Recommendations
 
 To further reduce risk, the following measures are recommended for implementation:
 
