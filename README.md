@@ -47,9 +47,7 @@ It also reminded me how much I enjoy the advisory and analytical side of cyberse
 
 Eventually I may add:
 
-- The original simulation prompt (for context)
 - Sample visuals or matrix exports
-- Expanded sections showing how I’d handle this in a full-time role
 
 ---
 
