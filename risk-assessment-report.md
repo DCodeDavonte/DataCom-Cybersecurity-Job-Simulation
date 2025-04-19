@@ -7,7 +7,7 @@
 
 ---
 
-## 1. Context
+## Context
 
 The client is a small community health clinic that provides primary care, lab testing, and basic mental health services to local residents. The clinic operates from a standalone facility that includes administrative offices, patient care areas, a records room, and a small server rack for internal systems.
 
