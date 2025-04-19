@@ -16,6 +16,7 @@ I’m using this repo as both a portfolio project and a personal checkpoint — 
 | [Threat Intelligence Reflection](https://github.com/DCodeDavonte/DataCom-Cybersecurity-Job-Simulation/blob/main/threat-intelligence-report-reflection.md) | My thought process behind the report — how I chose sources, what I learned, and how I structured the deliverable like a consultant would. |
 | [Risk Assessment Report](https://github.com/DCodeDavonte/DataCom-Cybersecurity-Job-Simulation/blob/main/risk-assessment-report.md) | A simulated risk assessment for a small health clinic, including inherent/current/target risks and practical recommendations. |
 | [Risk Assessment Reflection](https://github.com/DCodeDavonte/DataCom-Cybersecurity-Job-Simulation/blob/main/risk-assessment-report-reflection.md) | A detailed breakdown of how I approached risk scoring, selected scenarios, and balanced realistic controls with strong security posture. |
+| [Risk Assessment Excel Template](https://github.com/DCodeDavonte/DataCom-Cybersecurity-Job-Simulation/blob/main/Risk%20Assessment_Health%20Clinic.xlsx) | Downloadable supporting file from Task 2. Includes risk scoring matrix (inherent, current, and target). |
 
 ---
 
